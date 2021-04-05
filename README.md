@@ -1,0 +1,1 @@
+As web developer I created a Snippet Cheat Sheet based of a wireframe. I used semantic html code and concise CSS styles. 
