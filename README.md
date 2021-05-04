@@ -1,1 +1,1 @@
-As web developer I created a Snippet Cheat Sheet based of a wireframe. I used semantic html code and concise CSS styles. 
+As web developer I created a Snippet Cheat Sheet based of a wire frame. I used semantic html code and concise CSS styles. I modified the version to be black and white.
